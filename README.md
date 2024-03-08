@@ -3,13 +3,13 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This is a google sheet project created to calculate distance for a logistics company from one point to another thereby estimating amount. Used appscript to write a script language to introduce and activate googlemaps API as a function on the sheet. <br />
+This is a google sheet project created to calculate distance for a logistics company from one point to another thereby estimating amount. Used appscript to write a script language to introduce and activate googlemaps API as a function on the sheet. Data validation was also used to create dropdowns while formulas were also implemented to differentiate price as it relates to the dropdowns and keeping the sheet clean overall. <br />
 
 
 <h2>Utilities Used</h2>
 
 - <b>Apps Script</b> 
-- <b>Google Map</b>
+- <b>Google Map API</b>
 
 <h2>Environments Used </h2>
 
@@ -18,28 +18,16 @@ This is a google sheet project created to calculate distance for a logistics com
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Sheet interface: <br/>
+<img src="https://i.imgur.com/sjH6t05.png" height="80%" width="80%" alt="Google Sheet"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+App script for initiating map function:  <br/>
+<img src="https://i.imgur.com/tqKQYCq.png" height="80%" width="80%" alt="Google Sheet"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Working sheet with formulas: <br/>
+<img src="https://i.imgur.com/RjcId08.png" height="80%" width="80%" alt="Google Sheet"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
