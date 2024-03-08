@@ -3,7 +3,7 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-This is a google sheet project created to calculate distance for a logistics company from one point to another thereby estimating amount. Used appscript to write a script language to activate googlemaps function on the sheet. <br />
+This is a google sheet project created to calculate distance for a logistics company from one point to another thereby estimating amount. Used appscript to write a script language to introduce and activate googlemaps API as a function on the sheet. <br />
 
 
 <h2>Utilities Used</h2>
